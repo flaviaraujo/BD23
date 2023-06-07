@@ -1,0 +1,4 @@
+nr_reserva,nr_pessoas,nr_quartos,check_in,check_out,metodo_pagamento,preco_quarto,preco_total
+1,1,1,2023-05-26 10:30:00,2023-05-28 10:30:00,multibanco,50,110
+2,2,1,2023-05-26 10:30:00,2023-05-29 10:30:00,multibanco,50,160
+3,3,2,2023-05-30 10:30:00,2023-06-3 10:30:00,multibanco,100,710

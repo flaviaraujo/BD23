@@ -1,0 +1,7 @@
+nr_funcionario,email,nome,contacto_telefonico,NIB,NIF,salario,nr_cartao_cidadao,rua,localidade,codigo_postal
+1,dinis@gmail.com,Dinis_Primenta,912233445,12345678901234567890123,123456781,1000,123,rua_da_paz,braga,1000-001
+2,antonio@gmail.com,Antonio_Pedro,912345678,12345678901234567890567,123456777,750,234,rua_do_sol,braga,1000-001
+3,margarida@gmail.com,Margarida_Pimenta,937283445,12345678901234567890123,123456785,870,345,rua_dos_pinheiros,porto,1000-001
+4,tomas@gmail.com,Tomas_Pinto,936739573,12345678901234567890123,123456782,780,456,rua_dos_jardins,porto,1000-001
+5,pedro@gmail.com,Pedro_Azevedo,962056397,12345678901234567890123,123456783,750,567,rua_dos_lirios,bragança,1000-001
+6,flavia@gmail.com,Flavia_Araujo,9163890375,12345678901234567890123,123456784,950,678,rua_das_flores,guimarães,1000-001

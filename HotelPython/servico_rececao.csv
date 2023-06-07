@@ -1,0 +1,4 @@
+nr_funcionario,email_geral,contacto_telefonico,inicio_turno,fim_turno
+3,Edenhotel@gmail.com,252987123,00:00:00,08:00:00
+4,Edenhotel@gmail.com,252987123,08:00:00,16:00:00
+5,Edenhotel@gmail.com,252987123,16:00:00,00:00:00
